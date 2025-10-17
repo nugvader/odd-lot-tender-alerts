@@ -1,4 +1,5 @@
 name: Daily Tender Offer Alert
+# Trigger workflow setup
 
 on:
   schedule:
